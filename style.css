@@ -1,0 +1,24 @@
+p {
+    color: darkslategrey;
+    size: 15px;
+}
+
+.air {
+    color: darkgoldenrod;
+}
+
+.water {
+    color: blue;
+}
+
+.earth {
+    color: green;
+}
+
+.fire {
+    color: red;
+}
+
+body {
+    background-color: lightgray
+}
